@@ -13,7 +13,7 @@ from telegram.error import BadRequest
 
 # --- Configuration ---
 # PASTE YOUR BOT TOKEN HERE
-BOT_TOKEN = '7879139068:AAHOUUEha6JC1qvoN0w3pW9Eu0UNs1FvcM4'
+BOT_TOKEN = '7678348871:AAFKNVn1IAp46iBcTTOwo31i4WlT2KcZWGE'
 
 # --- Basic Logging Setup ---
 logging.basicConfig(
